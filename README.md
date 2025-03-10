@@ -19,7 +19,7 @@ The Vigenère cipher is a classic cryptographic method that enhances security co
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Vigenere-Cipher.git
+   git clone https://github.com/fahadelahikhan/Vigenere-Cipher.git
    cd Vigenere-Cipher
    
 
