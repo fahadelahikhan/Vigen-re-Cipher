@@ -1,6 +1,6 @@
 # Vigenère Cipher 🔒
 
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 A Python implementation of the **Vigenère cipher** — a polyalphabetic substitution cipher that uses dynamic keyword-based encryption/decryption.
